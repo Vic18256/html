@@ -1,0 +1,9 @@
+div {
+	 height: 300px;
+     width: 400px;
+	 margin: 5px;
+	 padding:20px;
+     border: 1px solid #000;
+	background: url("../Myproject2/Mypic1.png") repeat-y 0% 0%;
+	background-size: 20px 20px
+}
